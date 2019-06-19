@@ -1,2 +1,2 @@
 # Shadowing
-Cracking optimization with ODEs
+Trust more your ODEs

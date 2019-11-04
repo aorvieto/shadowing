@@ -1,5 +1,5 @@
-# Shadowing Properties of Optimization Algorithms
-## by Antonio Orvieto and Aurelien Lucchi
+# Shadowing Properties of Optimization Algorithms (NeurIPS 2019)
+### by Antonio Orvieto and Aurelien Lucchi
 
 Paper: http://people.inf.ethz.ch/orvietoa/shadowing.pdf
 

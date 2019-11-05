@@ -7,5 +7,5 @@ Paper: http://people.inf.ethz.ch/orvietoa/shadowing.html
 
 - Experiments on ML problems coded in Python 3.7.1 with PyTorch 1.0.0
 
-For a nice tutorial, go to code/python_code/shadowingERM.ipynb 
+For a nice tutorial, go to https://github.com/aorvieto/shadowing/blob/master/code/python_code/shadowingERM.ipynb
 

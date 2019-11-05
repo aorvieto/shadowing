@@ -3,6 +3,9 @@
 
 Paper: http://people.inf.ethz.ch/orvietoa/shadowing.html
 
-Simple experiments (quadratics) are coded in MATLAB 2017b
-Experiments on ML problems coded in Python 3.7.1 with PyTorch 1.0.0
+- Simple experiments (quadratics) are coded in MATLAB 2017b
+
+- Experiments on ML problems coded in Python 3.7.1 with PyTorch 1.0.0
+
+For a nice well commented example, go to code/python_code/shadowingERM.ipynb
 
